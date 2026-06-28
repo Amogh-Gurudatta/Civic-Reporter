@@ -1,4 +1,4 @@
-# 🏙️ CivicPulse — Community Hero: Hyperlocal Problem Solver
+# 🏙️ Civic Reporter — Community Hero: Hyperlocal Problem Solver
 
 > **Vibe2Ship Hackathon Submission**
 >
