@@ -1,0 +1,41 @@
+# Environment & Secrets
+.env
+*.json
+!.env.example
+
+# Firebase service account keys (never commit these!)
+firebase-key.json
+*-firebase-adminsdk-*.json
+serviceAccountKey.json
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache & compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Pytest & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
