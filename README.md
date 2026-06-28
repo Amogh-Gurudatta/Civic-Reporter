@@ -4,6 +4,8 @@
 >
 > *Empowering citizens to identify, report, validate, track, and resolve community issues through AI, real-time data, and collaborative engagement.*
 
+### 🌐 [Live Demo → community-hero-app-500611.web.app](https://community-hero-app-500611.web.app/)
+
 ---
 
 ## 📋 Table of Contents
