@@ -9,7 +9,7 @@
 ## 📋 Table of Contents
 
 - [Problem Statement](#-problem-statement)
-- [Our Solution](#-our-solution)
+- [My Solution](#-my-solution)
 - [Key Features](#-key-features)
 - [Architecture](#-architecture)
 - [Tech Stack](#-tech-stack)
@@ -34,9 +34,9 @@ Communities frequently face infrastructure issues — potholes, water leakages, 
 
 ---
 
-## 💡 Our Solution
+## 💡 My Solution
 
-**CivicPulse** is a full-stack, AI-powered civic issue reporting platform. Citizens can photograph a community problem, and the app automatically:
+**Civic Reporter** is a full-stack, AI-powered civic issue reporting platform. Citizens can photograph a community problem, and the app automatically:
 
 1. **Classifies** the issue type using Gemini AI (pothole, broken streetlight, flooding, etc.)
 2. **Rates severity** (Low / Medium / High) from the image
